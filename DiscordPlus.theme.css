@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Zai Triumph Typewriter';
-  --dplus-font-body: 'Zai Triumph Typewriter';
-  --dplus-font-header: 'Zai Triumph Typewriter';
+  --dplus-font-ui: 'Shine Typewriter';
+  --dplus-font-body: 'Shine Typewriter';
+  --dplus-font-header: 'Shine Typewriter';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
