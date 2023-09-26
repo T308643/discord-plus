@@ -60,16 +60,16 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Zai Courier Polski 1941';
-  --dplus-font-body: 'Zai Courier Polski 1941';
-  --dplus-font-header: 'Zai Courier Polski 1941';
+  --dplus-font-ui: 'Fira Code';
+  --dplus-font-body: 'Fira Code';
+  --dplus-font-header: 'Fira Code';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
-  --dplus-radius-ui: 8px;
-  --dplus-radius-avatar: 0%;
-  --dplus-radius-server: 0%;
+  --dplus-radius-ui: 10px;
+  --dplus-radius-avatar: 20%;
+  --dplus-radius-server: 20%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
   --dplus-spacing-ui: 10px;
