@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'UnifontExMono';
-  --dplus-font-body: 'UnifontExMono';
-  --dplus-font-header: 'UnifontExMono';
+  --dplus-font-ui: 'LED Calculator';
+  --dplus-font-body: 'LED Calculator';
+  --dplus-font-header: 'LED Calculator';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
